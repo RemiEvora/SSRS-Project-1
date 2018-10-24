@@ -290,7 +290,7 @@ FROM Certificate INNER JOIN
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Certificate</Value>
+                                  <Value>Rating</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <FontWeight>Bold</FontWeight>
@@ -362,7 +362,7 @@ FROM Certificate INNER JOIN
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Oscar Wins</Value>
+                                  <Value># of Oscars</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <FontWeight>Bold</FontWeight>
